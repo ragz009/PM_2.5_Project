@@ -1,1 +1,4 @@
-# PM_2.5_Project
+This project aims to use this dataset containing sensor-based and satellite values collected between 2019 and 2020 to predict PM2.5 concentration and assess the risk to the population.Meteorological events like climate, wind and emissions from human activities are two categories of main contributing factors of PM2.5. So in this project we are considering the influence of temperature, humidity and pollutants like Carbon Monoxide, Sulphur Dioxide and Nitrogen Dioxide on PM2.5 concentration .
+The present work investigates two years of air pollution data from multiple locations in Uganda  for PM 2.5 concentration and thereby air quality analysis and its prediction. The dataset is well preprocessed and key features are selected through the correlation analysis. An exploratory data analysis is exercised to develop insights into various hidden patterns in the dataset and pollutants directly affecting the PM 2.5 concentration  were identified.
+
+
